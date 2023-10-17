@@ -16,7 +16,7 @@
         <div class="row">
             <div class="col-md-12">
 
-                <h2>Monte a pizza como desejar aaa:</h2>
+                <h2>Monte a pizza como desejar:</h2>
 
                 <form action="process/pizza.php" method="POST" id="pizza-form">
                     <!--Post envia os dados para o servidor-->
